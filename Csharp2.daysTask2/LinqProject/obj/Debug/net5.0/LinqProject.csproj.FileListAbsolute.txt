@@ -1,0 +1,15 @@
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\bin\Debug\net5.0\LinqProject.exe
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\bin\Debug\net5.0\LinqProject.deps.json
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\bin\Debug\net5.0\LinqProject.runtimeconfig.json
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\bin\Debug\net5.0\LinqProject.runtimeconfig.dev.json
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\bin\Debug\net5.0\LinqProject.dll
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\bin\Debug\net5.0\ref\LinqProject.dll
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\bin\Debug\net5.0\LinqProject.pdb
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\obj\Debug\net5.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\obj\Debug\net5.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\obj\Debug\net5.0\LinqProject.AssemblyInfo.cs
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\obj\Debug\net5.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\obj\Debug\net5.0\LinqProject.dll
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\obj\Debug\net5.0\ref\LinqProject.dll
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\obj\Debug\net5.0\LinqProject.pdb
+C:\Users\ILKER\source\repos\Csharptask\LinqProject\obj\Debug\net5.0\LinqProject.genruntimeconfig.cache

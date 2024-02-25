@@ -1,0 +1,16 @@
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\bin\Debug\net5.0\Csharptask.exe
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\bin\Debug\net5.0\Csharptask.deps.json
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\bin\Debug\net5.0\Csharptask.runtimeconfig.json
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\bin\Debug\net5.0\Csharptask.runtimeconfig.dev.json
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\bin\Debug\net5.0\Csharptask.dll
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\bin\Debug\net5.0\ref\Csharptask.dll
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\bin\Debug\net5.0\Csharptask.pdb
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\Csharptask.csproj.AssemblyReference.cache
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\Csharptask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\Csharptask.AssemblyInfoInputs.cache
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\Csharptask.AssemblyInfo.cs
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\Csharptask.csproj.CoreCompileInputs.cache
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\Csharptask.dll
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\ref\Csharptask.dll
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\Csharptask.pdb
+C:\Users\ILKER\source\repos\Csharptask\Csharptask\obj\Debug\net5.0\Csharptask.genruntimeconfig.cache

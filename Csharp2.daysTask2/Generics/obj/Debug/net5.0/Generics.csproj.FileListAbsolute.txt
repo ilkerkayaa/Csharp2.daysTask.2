@@ -1,0 +1,16 @@
+C:\Users\ILKER\source\repos\Csharptask\Generics\bin\Debug\net5.0\Generics.exe
+C:\Users\ILKER\source\repos\Csharptask\Generics\bin\Debug\net5.0\Generics.deps.json
+C:\Users\ILKER\source\repos\Csharptask\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+C:\Users\ILKER\source\repos\Csharptask\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+C:\Users\ILKER\source\repos\Csharptask\Generics\bin\Debug\net5.0\Generics.dll
+C:\Users\ILKER\source\repos\Csharptask\Generics\bin\Debug\net5.0\ref\Generics.dll
+C:\Users\ILKER\source\repos\Csharptask\Generics\bin\Debug\net5.0\Generics.pdb
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\Generics.csproj.AssemblyReference.cache
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\Generics.dll
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\ref\Generics.dll
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\Generics.pdb
+C:\Users\ILKER\source\repos\Csharptask\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
